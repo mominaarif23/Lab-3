@@ -1,2 +1,4 @@
 Momina Arif
 24-ST-024
+Console.WriteLine(" Add two variables");
+int x = Convert.Toint32(Console.ReadLine());
